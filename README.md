@@ -12,7 +12,7 @@ This repository contains all deliverables for Task 2 – Customer & Marketing An
 
 - Customer_Marketing_Analytics_Report_Improved.docx - A detailed report explaining the project overview, dataset description, dashboard insights, tools used, and key learnings.
 
-- screenshots/Customer_Marketing_Dashboard.png - Screenshot of the Power BI dashboard used to explore customer behavior and purchasing patterns.
+- Screenshot 2025-09-21 200149.png - Screenshot of the Power BI dashboard used to explore customer behavior and purchasing patterns.
 
 📌 About the Task
 
